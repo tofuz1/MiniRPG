@@ -1,0 +1,5 @@
+v1.0.0 - Initial Release
+- Full combat system
+- 15 Special Dungeons
+- Echo equipment system
+- 7 Main story realms
