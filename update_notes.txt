@@ -1,3 +1,18 @@
 v1.0.1 
-- Bug fixes
-- Performance improvements
+1. added warning message "Before closing please make sure your export your save!"
+
+
+2. stackable potion buffs
+
+
+3. echoes mass upgrade and mass delete
+
+
+4. titles give small buffs
+
+
+5. tavern sells discount items every 10 minutes
+
+
+								
+6. echo upgrades upgrades the mainstat only
