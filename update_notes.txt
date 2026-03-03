@@ -1,18 +1,11 @@
-v1.0.2
-1. added warning message "Before closing please make sure your export your save!"
+v1.0.3
+1. removed warning message; instead added autosave
 
 
-2. stackable potion buffs
+2. explore option now has a sub menu which lets you choose what to explore
 
 
-3. echoes mass upgrade and mass delete
+3. death screen 
 
 
-4. titles give small buffs
-
-
-5. tavern sells discount items every 10 minutes
-
-
-								
-6. echo upgrades upgrades the mainstat only
+4. various bug fixes
