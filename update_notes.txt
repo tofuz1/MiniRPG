@@ -1,11 +1,12 @@
-v1.0.3
-1. removed warning message; instead added autosave
+v1.0.4
+1. display the title buffs next to the title in guild hall
 
 
-2. explore option now has a sub menu which lets you choose what to explore
+
+2. show progress to unlocking titles
 
 
-3. death screen 
+3. final boss damage mechanic rework 
 
 
 4. various bug fixes
