@@ -1,12 +1,2 @@
-v1.0.4
-1. display the title buffs next to the title in guild hall
-
-
-
-2. show progress to unlocking titles
-
-
-3. final boss damage mechanic rework 
-
-
-4. various bug fixes
+v1.0.5
+1. various bug fixes with the update system
