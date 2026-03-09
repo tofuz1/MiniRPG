@@ -1,2 +1,22 @@
-v1.0.5
-1. various bug fixes with the update system
+v1.0.6
+1. added weapon discounts to the tavern as well (discounts for common - rare weapons are more likely to appear than discounts for epic and above)
+
+
+2. monsters now give exp
+
+
+3. enemies with the ability to heal have healing scaled off of their health
+
+
+
+4. changed gaining coins message to actually match context
+
+
+
+5. added very small chances of other occurences happening while exploring 
+
+
+6. clear screen now occurs when fighting all enemies
+
+
+7. first clear dungeon rewards are now epic or higher
